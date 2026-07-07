@@ -1,12 +1,13 @@
 {
   "name": "react.dev",
   "version": "0.0.0",
+  "homepage": "https://raquel786.github.io/React-Tic-Tac-Toe",
   "main": "/src/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts ejet"
   },
   "dependencies": {
     "react": "^19.2.1",
